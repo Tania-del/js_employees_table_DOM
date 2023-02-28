@@ -46,6 +46,10 @@ thead th:hover {
   cursor: pointer;
 }
 
+tfoot th:hover {
+  cursor: pointer;
+}
+
 thead tr th:first-child {
   border-top-left-radius: 10px;
 }
